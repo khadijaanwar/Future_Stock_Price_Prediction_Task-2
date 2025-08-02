@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn yfinance
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/future-stock-price-prediction.git
+git clone https://github.com/khadijaanwar/Future_Stock_Price_Prediction_Task-2
 cd future-stock-price-prediction
 ```
 
